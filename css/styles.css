@@ -46,8 +46,8 @@ a {
 }
 
 .profile_pic {
-  height: 300px;
-  width: 300px;
+  height: 100%;
+  width: 100%;
 }
 
 .mountain {
@@ -175,4 +175,3 @@ hr {
 .h2skills {
   font-weight: bolder;
 }
-
